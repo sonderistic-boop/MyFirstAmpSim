@@ -1,0 +1,1 @@
+Attempt at making a spring reverb plugin with chaos based on lorentz attractors inspired by Cmeteor Pedal

@@ -1,0 +1,21 @@
+# Ignore all CMake build directories (CLion style)
+cmake-build-*/
+
+# Ignore CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Ignore compiled binaries and plugins
+*.vst3
+*.aaxplugin
+*.dll
+*.exe
+*.app
+
+# Platform-specific files
+.DS_Store
+*.sln
+*.vcxproj*
+*.xcodeproj
