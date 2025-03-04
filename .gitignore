@@ -1,6 +1,9 @@
 # Ignore all CMake build directories (CLion style)
 cmake-build-*/
 
+# CLion project files
+.idea/
+
 # Ignore CMake generated files
 CMakeCache.txt
 CMakeFiles/
